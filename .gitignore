@@ -1,0 +1,24 @@
+# Raw and derived data: never commit the dataset (see README for the download source)
+data/
+*.csv
+*.zip
+
+# Saved models live in the Google Drive folder, not in Git
+models/
+*.joblib
+*.pkl
+*.keras
+*.h5
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
