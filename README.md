@@ -4,13 +4,12 @@ Traditional machine learning versus deep learning on the Open University Learnin
 
 Summative project for Introduction to Machine Learning.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jagonzibwa/Intro-to-ML-Summative/blob/main/oulad_early_warning.ipynb)
 
 | Deliverable | Link |
 |-------------|------|
 | Google Drive folder (raw dataset zip and saved models) |https://drive.google.com/drive/folders/1ODw-Nt7TtsUmvoxONtjImycAr1a-9NgF?usp=sharing|
-| Presentation video | _add link_ |
-
+| Notebook | https://colab.research.google.com/drive/1wsBOzl2gvDBfXgv9vYB6ZOfFHXHZhN3d?usp=sharing |
+| Presentation video | https://youtu.be/aKj-4mTtk2I |
 ## Problem
 
 Distance-learning universities lose a large share of each cohort to failure and withdrawal, and tutors can only help students they know are struggling. This project asks whether a model can identify, 60 days after a module starts, the enrolled students who will go on to fail or withdraw, using only information the university holds on that day.
